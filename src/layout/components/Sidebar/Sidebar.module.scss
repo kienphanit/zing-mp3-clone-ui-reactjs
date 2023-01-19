@@ -1,6 +1,6 @@
 .wrapper {
   background-color: var(--blue-1);
-  color: black;
+  // color: black;
   position: fixed;
   height: calc(100vh - var(--height-footer));
   z-index: 100;
@@ -46,8 +46,8 @@
 }
 
 .active {
-  color: var(--blue-4);
-  background-color: white;
+  color: #34224f;
+  background-color: #9b4de0;
 }
 
 .line {
@@ -56,7 +56,7 @@
 }
 
 .lineActive {
-  background-color: var(--blue-4);
+  background-color: white;
 }
 
 .link {

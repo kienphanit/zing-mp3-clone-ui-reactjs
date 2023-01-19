@@ -9,33 +9,33 @@ const Slideshow = () => {
   const list = [
     {
       image:
-        "https://i.pinimg.com/736x/a3/a1/c2/a3a1c2915576ef3f812bcb062c5340bb.jpg",
+        "https://i.pinimg.com/564x/18/ef/e4/18efe48c3fe269724e7e43bb38c40df1.jpg",
       path: "/abc",
     },
     {
       image:
-        "https://i.pinimg.com/564x/27/c8/bb/27c8bb0b9af1919ee1e150c3d0a6d1cd.jpg",
+        "https://i.pinimg.com/564x/18/ef/e4/18efe48c3fe269724e7e43bb38c40df1.jpg",
       path: "/abc",
     },
     {
       image:
-        "https://i.pinimg.com/736x/0d/74/79/0d747969fe3e97a7451432fbbc97176b.jpg",
+        "https://i.pinimg.com/564x/18/ef/e4/18efe48c3fe269724e7e43bb38c40df1.jpg",
       path: "/abc",
     },
     {
       image:
-        "https://i.pinimg.com/564x/59/c3/9a/59c39a73978d34e4750c05431e94dd78.jpg",
+        "https://i.pinimg.com/564x/18/ef/e4/18efe48c3fe269724e7e43bb38c40df1.jpg",
       path: "/abc",
     },
     {
       image:
-        "https://i.pinimg.com/564x/35/fd/1f/35fd1f433566f657bba1b50a38d68348.jpg",
+        "https://i.pinimg.com/564x/18/ef/e4/18efe48c3fe269724e7e43bb38c40df1.jpg",
       path: "/abc",
     },
     {
       image:
-        "https://i.pinimg.com/564x/11/5e/45/115e4544555d976e4d23d4deddbf3fc6.jpg",
-      href: "https://www.instagram.com/kientp1610/",
+        "https://i.pinimg.com/564x/18/ef/e4/18efe48c3fe269724e7e43bb38c40df1.jpg",
+      href: "https://www.instagram.com/kienphanit/",
     },
   ];
 

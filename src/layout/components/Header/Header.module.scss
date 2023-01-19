@@ -33,7 +33,7 @@
 .search {
   display: flex;
   flex-direction: column;
-  background-color: var(--blue-1);
+  background-color: rgba(41,21,71,0.8);
   border-radius: 20px;
   width: 440px;
   max-width: 440px;
@@ -52,8 +52,8 @@
     }
     input {
       height: 25px;
-      background-color: var(--blue-1);
-      color: var(--blue-4);
+      background-color: rgba(41,21,71,0.8);
+      color: white;
       font-size: 15px;
       border: none;
       margin: 0 5px;
@@ -75,7 +75,7 @@
         width: 7px;
       }
       &::-webkit-scrollbar-thumb {
-        background-color: var(--blue-4);
+        background-color: #34224f;
         border-radius: 20px;
       }
     }

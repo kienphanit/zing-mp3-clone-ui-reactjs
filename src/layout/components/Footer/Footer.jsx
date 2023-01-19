@@ -20,7 +20,7 @@ const Footer = () => {
     <div className={clsx(style.wrapper)}>
       <div className={clsx(style.left)}>
         <img
-          src="https://i.pinimg.com/564x/68/3b/f1/683bf11c2bffd6697af60cf9cc849903.jpg"
+          src="https://i.pinimg.com/564x/a3/20/2b/a3202b100e1bedd77c2aa2e4ac538390.jpg"
           alt=""
         />
         <div className={clsx(style.info)}>

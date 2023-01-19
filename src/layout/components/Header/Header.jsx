@@ -33,7 +33,7 @@ const Header = ({ isScrolled }) => {
     const options = {
       method: "GET",
       headers: {
-        "X-RapidAPI-Key": "86a4243eccmsha76c2ea9aa0ff84p1a8f50jsn2aa8bf3532e4",
+        "X-RapidAPI-Key": "455e2c45edmshbf733020c7390ebp1e3526jsn1a1dc365378f",
         "X-RapidAPI-Host": "genius-song-lyrics1.p.rapidapi.com",
       },
     };
